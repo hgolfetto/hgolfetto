@@ -33,18 +33,18 @@ Currently, a Systems Analysis and Development student at SENAC (National Commerc
 
 <div align="center">
 
-| Área               | Habilidades                                  |
+| Area               | Skills                                     |
 |--------------------|--------------------------------------------|
-| **Idiomas**        | Português, Inglês (A2)                     |
+| **Languages**        | Portuguese, English (A2)                 |
 | **Office**        | Word, Excel, Power BI, PowerPoint          |
-| **Banco de Dados** | Oracle, MySQL                              |
-| **Metodologias**  | SCRUM                                       |
+| **Database**       | Oracle, MySQL                              |
+| **Methodologies**  | SCRUM                                       |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-## 🖥️ Linguagens:
+## 🖥️ Languages:
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Currently, a Systems Analysis and Development student at SENAC (National Commerc
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-## 🛠️ Ferramentas:
+## 🛠️ Tools:
 
 <div align="center">
 
