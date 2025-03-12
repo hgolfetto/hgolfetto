@@ -55,13 +55,6 @@ Currently, a Systems Analysis and Development student at SENAC (National Commerc
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
-## 🚀 Frameworks:
-
-<div align="center">
-
-![Next.js](https://img.icons8.com/?size=50&id=yUdJlcKanVbh&format=png)
-![Vite](https://img.icons8.com/?size=50&id=dJjTWMogzFzg&format=png)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
@@ -72,11 +65,9 @@ Currently, a Systems Analysis and Development student at SENAC (National Commerc
 
 ![VSCode](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png)
 ![IntelliJ](https://img.icons8.com/?size=50&id=61466&format=png)
-![PyCharm](https://img.icons8.com/?size=50&id=vinpBD5oA3b4&format=png)
 ![Trello](https://img.icons8.com/?size=50&id=21049&format=png)
 ![Notion](https://img.icons8.com/?size=50&id=nvtEH6DpqruC&format=png)
 ![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png)
-![PostgreSQL](https://img.icons8.com/?size=50&id=Pv4IGT0TSpt8&format=png)
 ![Oracle](https://img.icons8.com/?size=50&id=39913&format=png)
 ![Office](https://img.icons8.com/?size=50&id=37619&format=png)
 
